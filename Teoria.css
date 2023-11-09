@@ -40,19 +40,7 @@ h2{
     margin-right: 1300px;
     margin-left: 100px;
 }
-h3{
-    font-size: 30px;
-    color:whitesmoke;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align:left;
-}
-h4{
-    font-size: 30px;
-    color:whitesmoke;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align:right;
-    display: ;
-}
+
 
 .teste{
     display: flex;
