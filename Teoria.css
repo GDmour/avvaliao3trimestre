@@ -43,7 +43,7 @@ h2{
 
 
 .teste{
-    
+    display: flex;
     margin-left: 15px;
     font-size: 30px;
     color:whitesmoke;
